@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I’m a 2nd-year CS student passionate about building impactful software. I love backend systems, AI/ML projects, and clean code.**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KaustubhMukdam)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KaustubhMukdam&theme=solarized-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
