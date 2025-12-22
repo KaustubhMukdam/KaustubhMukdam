@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **I’m a 2nd-year CS student passionate about building impactful software. I love backend systems, AI/ML projects, and clean code.**
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KaustubhMukdam&theme=solarized-dark&hide_border=true" alt="GitHub Streak" /></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kmukdam9474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmukdam9474" height="30" width="40" /></a>
@@ -28,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaustubhMukdam&show_icons=true&locale=en" alt="KaustubhMukdam" /></p>
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KaustubhMukdam&theme=solarized-dark&hide_border=true" alt="GitHub Streak" /></a>
