@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh</h1>
 <h3 align="center">Undergrad | Aspiring Software Engineer | AI/ML Enthusiast</h3>
 
-- 🔭 I’m currently working on [AI Race Engineer Simulator](https://github.com/KaustubhMukdam/ai-race-engineer.git)
+- 🔭 I’m currently working on [DocuLens](https://github.com/KaustubhMukdam/DocuLens.git)
 
 - 🌱 I’m currently learning **FastAPI | Machine Learning**
 
