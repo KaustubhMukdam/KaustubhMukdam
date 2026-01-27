@@ -26,4 +26,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-beta-livid.vercel.app?user=KaustubhMukdam&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
+![Top Langs](https://https://mostusedlanguages.vercel.app/api/top-langs/?username=KaustubhMukdam&layout=compact&theme=tokyonight)
+
 [![Kaustubh Mukdam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhMukdam&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
