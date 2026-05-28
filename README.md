@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaustubh</h1>
-<h3 align="center">Undergrad | Aspiring Software Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">Undergrad |  AI/ML Enthusiast  |  Aspiring Software Engineer |</h3>
 
 - 🔭 I’m currently working on [ResearchBench-AI](https://github.com/KaustubhMukdam/ResearchBench-AI.git)
 
