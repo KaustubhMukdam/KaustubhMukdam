@@ -28,4 +28,4 @@
 
 ![Top Langs](https://https://mostusedlanguages.vercel.app/api/top-langs/?username=KaustubhMukdam&layout=compact)
 
-[![Kaustubh Mukdam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhMukdam&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kaustubh Mukdam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaustubhMukdam&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
