@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaustubh</h1>
 <h3 align="center">Undergrad | Aspiring Software Engineer | AI/ML Enthusiast</h3>
 
-- 🔭 I’m currently working on [VibeFlow](https://github.com/KaustubhMukdam/VibeFlow)
+- 🔭 I’m currently working on [ResearchBench-AI](https://github.com/KaustubhMukdam/ResearchBench-AI.git)
 
 - 🌱 I’m currently learning **FastAPI | Machine Learning**
 
